@@ -1,0 +1,154 @@
+{
+    "professor_reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Engaging lectures and clear explanations of complex topics."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Exceptional teacher who goes above and beyond to help students."
+      },
+      {
+        "professor": "Dr. Sarah Williams",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Knowledgeable but sometimes struggles to convey information clearly."
+      },
+      {
+        "professor": "Prof. David Brown",
+        "subject": "History",
+        "stars": 4,
+        "review": "Passionate about the subject and makes classes interesting."
+      },
+      {
+        "professor": "Dr. Lisa Garcia",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Inspiring instructor who encourages critical thinking."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Difficult to follow and doesn't provide enough examples."
+      },
+      {
+        "professor": "Dr. Amanda Lee",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Well-organized lectures and helpful office hours."
+      },
+      {
+        "professor": "Prof. Robert Taylor",
+        "subject": "English Literature",
+        "stars": 3,
+        "review": "Insightful discussions but heavy workload."
+      },
+      {
+        "professor": "Dr. Jessica Martinez",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Thought-provoking classes and great at facilitating discussions."
+      },
+      {
+        "professor": "Prof. Thomas Anderson",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Makes complex economic theories understandable and relevant."
+      },
+      {
+        "professor": "Dr. Rachel Kim",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Passionate and knowledgeable about the subject matter."
+      },
+      {
+        "professor": "Prof. Daniel Murphy",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Informative lectures but could improve on student engagement."
+      },
+      {
+        "professor": "Dr. Olivia Parker",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Brings real-world examples into the classroom effectively."
+      },
+      {
+        "professor": "Prof. Christopher Lee",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Challenges students to think critically and question assumptions."
+      },
+      {
+        "professor": "Dr. Sophia Patel",
+        "subject": "Neuroscience",
+        "stars": 4,
+        "review": "Explains complex concepts clearly and is always willing to help."
+      },
+      {
+        "professor": "Prof. William Hughes",
+        "subject": "Music Theory",
+        "stars": 3,
+        "review": "Knowledgeable but could improve on teaching methods."
+      },
+      {
+        "professor": "Dr. Natalie Foster",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Engaging lecturer who brings the subject to life."
+      },
+      {
+        "professor": "Prof. Gregory White",
+        "subject": "Business Administration",
+        "stars": 2,
+        "review": "Lacks enthusiasm and relies too heavily on textbook material."
+      },
+      {
+        "professor": "Dr. Samantha Brooks",
+        "subject": "Geology",
+        "stars": 4,
+        "review": "Organizes interesting field trips and hands-on experiences."
+      },
+      {
+        "professor": "Prof. Alexander Nguyen",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Extremely knowledgeable and makes the subject fascinating."
+      },
+      {
+        "professor": "Dr. Elizabeth Clark",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Thorough explanations but could provide more practice problems."
+      },
+      {
+        "professor": "Prof. Richard Davis",
+        "subject": "Film Studies",
+        "stars": 4,
+        "review": "Insightful analysis and encourages creative thinking."
+      },
+      {
+        "professor": "Dr. Laura Simmons",
+        "subject": "Mechanical Engineering",
+        "stars": 5,
+        "review": "Excellent at explaining complex concepts and relating them to real-world applications."
+      },
+      {
+        "professor": "Prof. Kevin O'Brien",
+        "subject": "Marketing",
+        "stars": 3,
+        "review": "Good industry knowledge but could improve on student interaction."
+      },
+      {
+        "professor": "Dr. Michelle Wong",
+        "subject": "Public Health",
+        "stars": 4,
+        "review": "Passionate about the subject and provides valuable insights from her research."
+      }
+    ]
+  }
